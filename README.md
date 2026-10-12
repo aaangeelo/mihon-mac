@@ -1,3 +1,5 @@
+> **Mihon Mac fork:** the native SwiftUI/AppKit preview lives in [`macos/`](macos/README.md). See the [coverage and remaining parity work](docs/MACOS_PARITY.md). The original Android project follows below.
+
 <div align="center">
 
 <a href="https://mihon.app">
